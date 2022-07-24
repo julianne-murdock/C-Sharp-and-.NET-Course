@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb
