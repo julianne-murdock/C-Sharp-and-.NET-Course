@@ -34,6 +34,7 @@ namespace ConsoleAppArrayFuturePicker
             int cChoice = Convert.ToInt32(Console.ReadLine());
 
             //Console App Part 2 Infinite loop, is stopped when user picks a working number, moves onto next question.
+            //Console App Part 3 Continues based on if a number is picked within the range
             while (cChoice > 8 || cChoice < 1)
             {
                 Console.WriteLine("OPS THAT WASN'T AN OPTION... *ENTER NUMBER BETWEEN 1-8 TO INDICATE CHOICE*");
@@ -42,10 +43,10 @@ namespace ConsoleAppArrayFuturePicker
             }
 
             string[] careerType = { "Software Developer", "Entrepreneur", "Artist", "Content Creator", "Engineer", "Missionary", "Travel Agent", "Life Insurance Agent" };
-            //END CLASS PICK
+            //END CAREER PICK
 
 
-            //PICK STRENGTH AND DEXTERITY
+            //PICK HOW MANY KIDS
             Console.WriteLine("Choose how many kids you want in your family (your choice will inversely effect your multitasking Level)");
             Console.WriteLine("*ENTER NUMBER BETWEEN 1-6 TO INDICATE CHOICE*");
             int kidsChoice = Convert.ToInt32(Console.ReadLine());
@@ -57,7 +58,7 @@ namespace ConsoleAppArrayFuturePicker
                 kidsChoice = Convert.ToInt32(Console.ReadLine());
 
             }
-            //END ST. AND IN. PICK
+            //END HOW MANY KIDS
 
 
             //PICK AGE
