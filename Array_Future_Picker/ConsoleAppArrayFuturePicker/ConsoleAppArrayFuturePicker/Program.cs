@@ -44,7 +44,7 @@ namespace ConsoleAppArrayFuturePicker
                 cChoice = Convert.ToInt32(Console.ReadLine());
 
             }
-
+            //Console App Part 5 list of strings, displayof the user selections is at the end
             string[] careerType = { "Software Developer", "Entrepreneur", "Artist", "Content Creator", "Engineer", "Missionary", "Travel Agent", "Life Insurance Agent" };
             //END CAREER PICK
 
@@ -78,7 +78,7 @@ namespace ConsoleAppArrayFuturePicker
 
             }
 
-
+            //Console App Part 6 and user selctions below
 
             List<string> ageList = new List<string>();
             ageList.Add("Young");
@@ -90,7 +90,7 @@ namespace ConsoleAppArrayFuturePicker
 
 
 
-
+            
 
             int A = ageChoice - 1;
 
