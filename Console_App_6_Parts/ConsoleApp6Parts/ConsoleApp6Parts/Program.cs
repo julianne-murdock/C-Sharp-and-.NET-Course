@@ -14,22 +14,25 @@ namespace ConsoleApp6Parts
             //A loop that iterates through each string in the array and adds the user's text input to the end of each string. This step will not output anything to the console, but will update each array element by appending the user's text.
             //Then create a second loop that prints off each string in the array one at a time.
 
-            string[] stringArray = { "neon tetras", "beta fish", "albino corydora catfish", "upside down catfish" };
+            string[] stringArray = { "neon tetra", "beta fish", "albino corydora catfish", "upside down catfish" };
 
-            Console.WriteLine("Enter an adjective that describes fish");
+            Console.WriteLine("Enter a verb that describes what your fish are currently doing");
             string adj = (Console.ReadLine());
 
             for (int j = 0; j < stringArray.Length; j++)
             {
-
-                {
-                    Console.WriteLine(adj + " " + stringArray[j]);
-
-                }
+                stringArray[j] = stringArray[j] + " is " + adj; // adds user input to the end of each index value with a space between
             }
+
+            for (int j = 0; j < stringArray.Length; j++) // loops through updated array
+            {
+                Console.WriteLine("Here is what your fish are all doing: " + stringArray[j]); // prints each index
+            }
+            Console.ReadLine();   
 
 
             //STEP 2  An infinite loop. Fix the infinite loop so that it will execute properly.
+            //I fixed it by adding in "a < 5;" so that way it stops when a is greater than 5.
 
             for (int a = 0; a < 5; a++)
             {
@@ -57,34 +60,38 @@ namespace ConsoleApp6Parts
             //Add code to check if the user put in text that isn't on the list and, if they did, tell the user their input is not on the list. 
             //Add code that stops the loop from executing once a match has been found.
 
-            string[] stringArray2 = { "neon tetras", "beta fish", "albino corydora catfish", "upside down catfish" };
-
-            Console.WriteLine("guess a type of fish to see if it is in the secret list! (please use only lower case letters and some names may have two words)");
-            string guess = (Console.ReadLine());
-
-            for (int j = 0; j < stringArray2.Length; j++)
+            List<string> fishColors = new List<string>() { "blue", "green", "purple" };
+            Console.WriteLine("I have 3 fish! What color do you think one of my fish are? (lowercase):");
+            string userGuess = Console.ReadLine();
+            Console.WriteLine(); //Line Break.
+            for (int j = 0; j < 1; j++)
             {
-                if (stringArray2[j] == guess)
+                if (userGuess == "blue")
                 {
-                    Console.WriteLine("Yes, your guess of " + stringArray2[j] + " is in the list!");
+                    Console.Write("Index Number: " + fishColors.IndexOf("blue"));
+                    Console.ReadLine();
+                    break;
+                }
+                if (userGuess == "green")
+                {
+                    Console.Write("Index Number: " + fishColors.IndexOf("green"));
+                    Console.ReadLine();
+                    break;
+                }
+                if (userGuess == "purple")
+                {
+                    Console.Write("Index Number: " + fishColors.IndexOf("purple"));
+                    Console.ReadLine();
                     break;
                 }
                 else
                 {
-                    Console.WriteLine("Your guess " + "'" + guess + "'" + " is not in the secret list");
-                    Console.WriteLine("*HINT* this fish lives in a smaller tank and has huge wavy fins (make sure your guess is lowercase and it could have two words)");
-
-                    Console.WriteLine("Please guess again");
-                    guess = (Console.ReadLine());
-
-                    if (stringArray2[j] == guess)
-                    {
-                        Console.WriteLine("Yes, your guess of " + stringArray2[j] + " is in the list!");
-                        break;
-                    }
-
+                    Console.Write("Sorry, that's not on the list.");
+                    Console.ReadLine();
+                    break;
                 }
             }
+                   Console.WriteLine(); //Line Break.
 
 
             //STEP 5  A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
@@ -104,14 +111,17 @@ namespace ConsoleApp6Parts
                 {
                     matchExists = true;
                     Console.WriteLine(fru + aGuess);
+                    Console.ReadLine();
                 }
-                if (matchExists == false)
-                {
-                    Console.WriteLine("Sorry, this is not in the list");
-
-                }
+                
             }
 
+            if (matchExists == false)
+                {
+                    Console.WriteLine("Sorry, this is not in the list");
+                    Console.ReadLine();
+
+                }
 
 
 
@@ -138,6 +148,13 @@ namespace ConsoleApp6Parts
                         matchExists2 = true;
 
                         Console.WriteLine(" *this has already shown up in the list* ");
+                        break;
+
+                    }
+                    else
+                    {
+
+                        Console.WriteLine(" *this has not shown up in the list already* ");
                         break;
 
                     }

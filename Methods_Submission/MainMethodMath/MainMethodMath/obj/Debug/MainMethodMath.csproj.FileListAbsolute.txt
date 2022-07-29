@@ -1,0 +1,3 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\MainMethodMath\MainMethodMath\obj\Debug\MainMethodMath.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\MainMethodMath\MainMethodMath\obj\Debug\MainMethodMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\MainMethodMath\MainMethodMath\obj\Debug\MainMethodMath.csproj.CoreCompileInputs.cache
