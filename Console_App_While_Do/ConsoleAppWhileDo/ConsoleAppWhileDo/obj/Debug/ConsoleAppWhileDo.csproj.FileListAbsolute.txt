@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\bin\Debug\ConsoleAppWhileDo.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\bin\Debug\ConsoleAppWhileDo.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\bin\Debug\ConsoleAppWhileDo.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\obj\Debug\ConsoleAppWhileDo.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\obj\Debug\ConsoleAppWhileDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\obj\Debug\ConsoleAppWhileDo.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\obj\Debug\ConsoleAppWhileDo.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_While_Do\ConsoleAppWhileDo\ConsoleAppWhileDo\obj\Debug\ConsoleAppWhileDo.pdb
