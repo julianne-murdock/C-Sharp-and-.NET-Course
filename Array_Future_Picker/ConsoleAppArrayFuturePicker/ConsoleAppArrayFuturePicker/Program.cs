@@ -27,6 +27,8 @@ namespace ConsoleAppArrayFuturePicker
             //A loop that iterates through each string in the array and adds the user's text input to the end of each string. This step will not output anything to the console, but will update each array element by appending the user's text.
             //Then create a second loop that prints off each string in the array one at a time.
 
+            //Console App Part 4: Create a list of strings where each item in the list is unique, input text, (display is at end)
+
             //PICK CAREER
             Console.WriteLine("Pick your career:" + "\n1: Software Developer" + "\n2: Entrepreneur" + "\n3: Artist" +  
                 "\n4: Content Creator" + "\n5: Engineer" + "\n6: Missionary" + "\n7: Travel Agent" + "\n8: Life Insurance Agent");
@@ -35,6 +37,7 @@ namespace ConsoleAppArrayFuturePicker
 
             //Console App Part 2 Infinite loop, is stopped when user picks a working number, moves onto next question.
             //Console App Part 3 Continues based on if a number is picked within the range
+            //Console App Part 4 Checks to see if user input matches the list
             while (cChoice > 8 || cChoice < 1)
             {
                 Console.WriteLine("OPS THAT WASN'T AN OPTION... *ENTER NUMBER BETWEEN 1-8 TO INDICATE CHOICE*");
