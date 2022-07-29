@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\ConsoleApp6Parts.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\ConsoleApp6Parts.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\bin\Debug\ConsoleApp6Parts.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\ConsoleApp6Parts.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\ConsoleApp6Parts.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\ConsoleApp6Parts.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\ConsoleApp6Parts.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Console_App_6_Parts\ConsoleApp6Parts\ConsoleApp6Parts\obj\Debug\ConsoleApp6Parts.pdb
