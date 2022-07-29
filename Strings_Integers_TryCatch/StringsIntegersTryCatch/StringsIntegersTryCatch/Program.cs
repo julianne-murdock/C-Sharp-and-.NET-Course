@@ -14,9 +14,7 @@ namespace StringsIntegersTryCatch
             // Ask the user for a number to divide each number in the list by.
             // Write a loop that takes each integer in the list, divides it by the
             // number the user entered, and displays the result to the screen.
-            List<int> testScores = new List<int>() { 100, 99, 98, 70, 80, 60 };
-            Console.WriteLine("please type a number");
-            int num = Convert.ToInt32(Console.ReadLine());
+            
 
             //Part 2: Now put the loop in a try/catch block. Below and outside of the
             //try/catch block, make the program print a message to the display to let you
@@ -27,6 +25,9 @@ namespace StringsIntegersTryCatch
             //the try/catch block gets executed.
             try
             {
+                List<int> testScores = new List<int>() { 100, 99, 98, 70, 80, 60 };
+                Console.WriteLine("please type a number");
+                int num = Convert.ToInt32(Console.ReadLine());
                 foreach (int score in testScores)
                 {
                     Console.WriteLine(score / num);
