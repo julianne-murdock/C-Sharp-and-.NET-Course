@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringsIntegersTryCatch", "StringsIntegersTryCatch\StringsIntegersTryCatch.csproj", "{A48BF08D-6D40-4213-9B65-F32FDFF48850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A48BF08D-6D40-4213-9B65-F32FDFF48850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48BF08D-6D40-4213-9B65-F32FDFF48850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48BF08D-6D40-4213-9B65-F32FDFF48850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48BF08D-6D40-4213-9B65-F32FDFF48850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AF799FA-3477-47A0-9E6C-8C6639EC1AD6}
+	EndGlobalSection
+EndGlobal

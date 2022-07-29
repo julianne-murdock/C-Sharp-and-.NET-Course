@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\obj\Debug\StringsIntegersTryCatch.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\obj\Debug\StringsIntegersTryCatch.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\obj\Debug\StringsIntegersTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\bin\Debug\StringsIntegersTryCatch.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\bin\Debug\StringsIntegersTryCatch.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\bin\Debug\StringsIntegersTryCatch.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\obj\Debug\StringsIntegersTryCatch.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Strings_Integers_TryCatch\StringsIntegersTryCatch\StringsIntegersTryCatch\obj\Debug\StringsIntegersTryCatch.pdb
