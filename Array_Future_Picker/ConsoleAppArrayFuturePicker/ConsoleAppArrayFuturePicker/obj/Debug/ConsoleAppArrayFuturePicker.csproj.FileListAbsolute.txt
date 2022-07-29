@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\bin\Debug\ConsoleAppArrayFuturePicker.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\bin\Debug\ConsoleAppArrayFuturePicker.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\bin\Debug\ConsoleAppArrayFuturePicker.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\obj\Debug\ConsoleAppArrayFuturePicker.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\obj\Debug\ConsoleAppArrayFuturePicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\obj\Debug\ConsoleAppArrayFuturePicker.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\obj\Debug\ConsoleAppArrayFuturePicker.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Array_Future_Picker\ConsoleAppArrayFuturePicker\ConsoleAppArrayFuturePicker\obj\Debug\ConsoleAppArrayFuturePicker.pdb
