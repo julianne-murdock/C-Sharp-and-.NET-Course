@@ -15,19 +15,12 @@ namespace ConsoleAppArrayFuturePicker
             System.Threading.Thread.Sleep(1000);
 
 
-            // CONSOLE APP ARRAY SUBMISSION AND 6 PART ITTIRATION 
+            // CONSOLE APP ARRAY SUBMISSION
 
             //Array sub: an array of strings is shown in question 1, an array of integers is in question 2,
             //Array sub: this doesn't exist message is under the while loop in question 1
             //Array sub: list of strings and selecting an index of the list is in all questions and displaying the content at that index on the screen is at the end after all questions are answered.
 
-
-            //Console App Part One : A one-dimensional array of strings.
-            //Ask the user to input some text.
-            //A loop that iterates through each string in the array and adds the user's text input to the end of each string. This step will not output anything to the console, but will update each array element by appending the user's text.
-            //Then create a second loop that prints off each string in the array one at a time.
-
-            //Console App Part 4: Create a list of strings where each item in the list is unique, input text, (display is at end)
 
             //PICK CAREER
             Console.WriteLine("Pick your career:" + "\n1: Software Developer" + "\n2: Entrepreneur" + "\n3: Artist" +  
@@ -35,16 +28,14 @@ namespace ConsoleAppArrayFuturePicker
             Console.WriteLine("*ENTER NUMBER BETWEEN 1-8 TO INDICATE CHOICE*");
             int cChoice = Convert.ToInt32(Console.ReadLine());
 
-            //Console App Part 2 Infinite loop, is stopped when user picks a working number, moves onto next question.
-            //Console App Part 3 Continues based on if a number is picked within the range
-            //Console App Part 4 Checks to see if user input matches the list
+           
             while (cChoice > 8 || cChoice < 1)
             {
                 Console.WriteLine("OPS THAT WASN'T AN OPTION... *ENTER NUMBER BETWEEN 1-8 TO INDICATE CHOICE*");
                 cChoice = Convert.ToInt32(Console.ReadLine());
 
             }
-            //Console App Part 5 list of strings, displayof the user selections is at the end
+            
             string[] careerType = { "Software Developer", "Entrepreneur", "Artist", "Content Creator", "Engineer", "Missionary", "Travel Agent", "Life Insurance Agent" };
             //END CAREER PICK
 
@@ -78,7 +69,7 @@ namespace ConsoleAppArrayFuturePicker
 
             }
 
-            //Console App Part 6 and user selctions below
+           
 
             List<string> ageList = new List<string>();
             ageList.Add("Young");
