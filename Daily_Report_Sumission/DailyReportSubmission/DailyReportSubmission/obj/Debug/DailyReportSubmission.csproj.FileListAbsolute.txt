@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\bin\Debug\DailyReportSubmission.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\bin\Debug\DailyReportSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\bin\Debug\DailyReportSubmission.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\obj\Debug\DailyReportSubmission.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\obj\Debug\DailyReportSubmission.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\obj\Debug\DailyReportSubmission.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\obj\Debug\DailyReportSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Daily_Report_Sumission\DailyReportSubmission\DailyReportSubmission\obj\Debug\DailyReportSubmission.pdb
