@@ -15,8 +15,14 @@ namespace ConsoleAppArrayFuturePicker
             System.Threading.Thread.Sleep(1000);
 
 
+
+            //Console App Part One : A one-dimensional array of strings.
+            //Ask the user to input some text.
+            //A loop that iterates through each string in the array and adds the user's text input to the end of each string. This step will not output anything to the console, but will update each array element by appending the user's text.
+            //Then create a second loop that prints off each string in the array one at a time.
+
             //PICK CAREER
-            Console.WriteLine("Pick your career:" + "\n1: Software Developer" + "\n2: Entrepreneur" + "\n3: Artist" +
+            Console.WriteLine("Pick your career:" + "\n1: Software Developer" + "\n2: Entrepreneur" + "\n3: Artist" +  
                 "\n4: Content Creator" + "\n5: Engineer" + "\n6: Missionary" + "\n7: Travel Agent" + "\n8: Life Insurance Agent");
             Console.WriteLine("*ENTER NUMBER BETWEEN 1-8 TO INDICATE CHOICE*");
             int cChoice = Convert.ToInt32(Console.ReadLine());
