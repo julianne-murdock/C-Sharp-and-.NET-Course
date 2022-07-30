@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\bin\Debug\Methods_Sub.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\bin\Debug\Methods_Sub.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\bin\Debug\Methods_Sub.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\obj\Debug\Methods_Sub.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\obj\Debug\Methods_Sub.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\obj\Debug\Methods_Sub.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\obj\Debug\Methods_Sub.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Methods_Submission\Methods_Sub\Methods_Sub\obj\Debug\Methods_Sub.pdb
