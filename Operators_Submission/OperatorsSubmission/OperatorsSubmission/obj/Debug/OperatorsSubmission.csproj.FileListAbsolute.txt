@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Operators_Submission\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.pdb
