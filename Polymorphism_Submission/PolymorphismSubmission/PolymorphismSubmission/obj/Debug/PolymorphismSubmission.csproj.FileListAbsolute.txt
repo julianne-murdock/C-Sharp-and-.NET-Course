@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\bin\Debug\PolymorphismSubmission.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\bin\Debug\PolymorphismSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\bin\Debug\PolymorphismSubmission.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Polymorphism_Submission\PolymorphismSubmission\PolymorphismSubmission\obj\Debug\PolymorphismSubmission.pdb
