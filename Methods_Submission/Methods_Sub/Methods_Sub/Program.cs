@@ -13,11 +13,11 @@ namespace Methods_Sub
             var operatorObject = new Class1();
 
 
-            Console.WriteLine("Please input a number");
+            Console.WriteLine("Please input a number"); //user inputs first number
             int fstChoice = Convert.ToInt32(Console.ReadLine());
 
 
-            Console.WriteLine("Optional input a second number");
+            Console.WriteLine("Optional input a second number"); //user can input an optional second number
             try
             {
                 int sndChoice = Convert.ToInt32(Console.ReadLine());
