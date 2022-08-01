@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\bin\Debug\DaysOfTheWeek.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Parsing_Enums_Submission\DaysOfTheWeek\DaysOfTheWeek\obj\Debug\DaysOfTheWeek.pdb
