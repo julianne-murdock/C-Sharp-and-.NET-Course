@@ -10,11 +10,11 @@ namespace Main_Method
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi there! Type a number you want to use for the math operations today.");
+            Console.WriteLine("Hi there! Type a number you want to use for the math operations today."); //allows user to type in nummber for the operations
             int Choice = Convert.ToInt32(Console.ReadLine());
-            var Value = Choice;
+            var Value = Choice; //makes the int value from the user into a var
 
-            var operatorObject = new Math();
+            var operatorObject = new Math(); //uses the math class to preform operations
             int result = operatorObject.Add(Value, 14);
 
             Console.WriteLine("The result of " + Choice + " + 14 is " + result);
