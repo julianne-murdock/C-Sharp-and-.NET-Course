@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Lamda_Submission\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.pdb
