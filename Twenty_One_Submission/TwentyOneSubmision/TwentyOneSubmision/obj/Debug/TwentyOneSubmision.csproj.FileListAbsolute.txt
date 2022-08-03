@@ -1,0 +1,8 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\obj\Debug\TwentyOneSubmision.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\obj\Debug\TwentyOneSubmision.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\obj\Debug\TwentyOneSubmision.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\bin\Debug\TwentyOneSubmision.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\bin\Debug\TwentyOneSubmision.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\bin\Debug\TwentyOneSubmision.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\obj\Debug\TwentyOneSubmision.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\obj\Debug\TwentyOneSubmision.pdb

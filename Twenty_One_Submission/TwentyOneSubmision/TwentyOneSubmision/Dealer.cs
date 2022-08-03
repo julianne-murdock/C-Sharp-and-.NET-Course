@@ -17,10 +17,10 @@ namespace TwentyOneSubmision
             Hand.Add(Deck.Cards.First());
             string card = string.Format(Deck.Cards.First().ToString() + "\n");
             Console.WriteLine(card);
-            using (StreamWriter file = new StreamWriter(@"C:\Users\16083\School\Basic_C-_Programs\TwentyOne\TwentyOne\log.txt", true))
+            //using (StreamWriter file = new StreamWriter(@"C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\Twenty_One_Submission\TwentyOneSubmision\TwentyOneSubmision\log.txt", true))
             {
-                file.WriteLine(DateTime.Now);
-                file.WriteLine(card);
+                //file.WriteLine(DateTime.Now);
+                //file.WriteLine(card);
             }
             Console.WriteLine(Deck.Cards.First().ToString() + "\n");
             Deck.Cards.RemoveAt(0);
