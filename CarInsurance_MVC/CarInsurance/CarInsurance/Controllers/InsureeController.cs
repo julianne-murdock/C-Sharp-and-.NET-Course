@@ -101,16 +101,14 @@ namespace CarInsurance.Controllers
                 quote = quote + tickets * 10;
 
                 //dui/dwi Calculations
-                //was unclear if the percentages from dui and coverage were supposed to be added together or multiplied so I just added them
-                //but also included the option to multiply them as a comment
                 bool hasDUI = insuree.DUI;
                 double duiUpCharge = 0;
                 if (hasDUI)
                 {
                     duiUpCharge = quote * .25;
-                    //duiUpCharge = quote * .25;
 
                 }
+                quote += duiUpCharge;
 
                 //Coverage Calculations
                 bool isFullCoverage = insuree.CoverageType;
@@ -120,7 +118,7 @@ namespace CarInsurance.Controllers
                     coverageUpCharge = quote * .5;
                     //quote = quote * 1.5;
                 }
-                quote += coverageUpCharge + duiUpCharge;
+                quote += coverageUpCharge;
 
                 //sets the quote attribute to the quote that was just calculated
                 insuree.Quote = Convert.ToDecimal(quote);
