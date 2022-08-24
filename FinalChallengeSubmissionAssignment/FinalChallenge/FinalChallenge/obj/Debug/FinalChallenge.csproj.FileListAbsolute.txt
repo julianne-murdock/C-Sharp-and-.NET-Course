@@ -1,0 +1,13 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.AssemblyReference.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe.config
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\FinalChallenge.pdb
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.csproj.CopyComplete
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\FinalChallengeSubmissionAssignment\FinalChallenge\FinalChallenge\obj\Debug\FinalChallenge.pdb

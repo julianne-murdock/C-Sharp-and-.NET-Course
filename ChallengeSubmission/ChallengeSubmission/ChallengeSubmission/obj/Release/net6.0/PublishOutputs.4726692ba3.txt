@@ -1,0 +1,7 @@
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.exe
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.dll
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.deps.json
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.runtimeconfig.json
+C:\Users\julia\Documents\GitHub\C-Sharp-and-.NET-Course\ChallengeSubmission\ChallengeSubmission\ChallengeSubmission\obj\Release\net6.0\PubTmp\Out\ChallengeSubmission.pdb
